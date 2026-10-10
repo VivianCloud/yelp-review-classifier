@@ -60,7 +60,7 @@ A natural next step would be reframing the task as 3-class classification (negat
 
 ## What I Learned
 
-The overfitting behavior surprised me, as I didn't realize a large dataset could still be vulnerable to this issue. As I tried to increase the sample size to reverse this, I also came across the issue of my laptop being crashing - something that was never really a problem before. I learned how to problem solve while also learning how different NLP approaches work mathematically.
+The overfitting behavior surprised me, as I didn't realize a large dataset could still be vulnerable to this issue. As I tried to increase the sample size to reverse this, I also came across the issue of my laptop being crashing, a problem I never really considered before. I learned how to problem solve while also learning how different NLP approaches work mathematically.
 
 ## Tech Stack
 
