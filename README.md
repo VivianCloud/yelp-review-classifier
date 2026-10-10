@@ -56,7 +56,7 @@ The neural network shows a noticeably wider train/dev gap than logistic regressi
 
 ## Future Work
 
-A natural next step would be reframing the task as 3-class classification (negative / neutral / positive) instead of 5-class — this is a substantially easier task and would likely raise accuracy meaningfully, while still being a useful signal.
+A natural next step would be reframing the task as 3-class classification (negative / neutral / positive) instead of 5-class. This would be a substantially easier task and would likely raise accuracy meaningfully, while still being a useful signal.
 
 ## What I Learned
 
